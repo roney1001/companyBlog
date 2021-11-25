@@ -1,0 +1,10 @@
+.img_fun{
+  width: 150px;
+  height: 100px;
+  display: block;
+  text-indent: -9999px;
+  border-radius: 50%;
+}
+.col{
+  background-color: #80ffe5;
+}
