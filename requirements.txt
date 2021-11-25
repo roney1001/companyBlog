@@ -63,7 +63,7 @@ conda-verify==3.4.2
 contextlib2==0.6.0.post1
 
 cycler==0.10.0
-Cython @ file:///C:/ci/cython_1618435363327/work
+
 cytoolz==0.11.0
 
 dnspython==2.1.0
